@@ -1,0 +1,2 @@
+Este taller coniste en buscar una palabra en un determinado texto.
+2018-02-23 - Taller Entregado
