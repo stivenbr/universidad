@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpword": "^0.14.0",
+        "cpierce/pdf2text": "^1.0"
+    }
+}
