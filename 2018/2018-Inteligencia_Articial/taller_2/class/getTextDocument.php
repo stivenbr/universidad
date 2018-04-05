@@ -24,8 +24,6 @@ foreach($aDocumentoBuscar as $sDocument){
     $aExt = explode('.', $sDocument);
     $sExt = end($aExt);
     
-    
-    
     switch ($sExt){
         case "txt":
             $cTxt = new GetTxt();
